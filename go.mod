@@ -2,4 +2,4 @@ module h0oq.github.io/ai-layouts
 
 go 1.25.4
 
-require github.com/h0oq/hugo-debug-bar v0.0.0-20251116223716-0abd778ae96c // indirect
+require github.com/h0oq/hugo-debug-bar v0.0.0-20251120091844-7bc0d50cc1e2 // indirect
