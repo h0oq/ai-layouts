@@ -1,2 +1,4 @@
-showDebugBar = true
-custom_param = "lol"
+[params]
+ custom_param = "lol"
+  [params.HDB]
+    position = "bottom" # either "bottom" or "top" (default position is "top")
