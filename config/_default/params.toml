@@ -1,4 +1,3 @@
-[params]
- custom_param = "lol"
-  [params.HDB]
-    position = "bottom" # either "bottom" or "top" (default position is "top")
+custom_param = "lol"
+ [params.HDB]
+   position = "bottom" # either "bottom" or "top" (default position is "top")
